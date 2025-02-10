@@ -1,2 +1,2 @@
-# WebScrapingWithBeautifulSoupAndSelenium
-Miuul'da bulunan "Web Scraping with Beautiful Soup and Selenium" adlı eğitimi ile ilgili kodları içermektedir.
+# Web Scraping with Beautiful Soup and Selenium
+## Miuul'da bulunan "Web Scraping with Beautiful Soup and Selenium" adlı eğitim ile ilgili kodları içermektedir.
